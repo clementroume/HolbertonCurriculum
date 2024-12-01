@@ -38,6 +38,8 @@ Each section includes progressively challenging tasks to reinforce theoretical c
 
 ## Directory Overview  
 
+Here’s a breakdown of the subdirectories:
+
 ### [Zero Day (`holbertonschool-zero_day`)](./holbertonschool-zero_day)  
 
 - **Focus**: Familiarization with the school’s tools and workflows.  
@@ -48,10 +50,10 @@ Each section includes progressively challenging tasks to reinforce theoretical c
 
 ### [Low-Level Programming (`holbertonschool-low_level_programming`)](./holbertonschool-low_level_programming)  
 
-- **Focus**: Mastery of C programming.  
+- **Focus**: Mastery of C programming and its applications in memory management, debugging, and data structures. 
 - **Key Projects**:  
-  - **Pointers, Arrays, and Strings**  
-  - **Doubly Linked Lists**  
+  - **Pointers, Arrays, and Strings** Deep dive into memory handling and efficient data manipulation in C.
+  - **Doubly Linked Lists** Implement and manipulate complex data structures with traversal and insertion operations.
 
 ### [Higher-Level Programming (`holbertonschool-higher_level_programming`)](./holbertonschool-higher_level_programming)  
 
@@ -66,8 +68,8 @@ Each section includes progressively challenging tasks to reinforce theoretical c
 
 ### [Shell Scripting (`holbertonschool-shell`)](./holbertonschool-shell)  
 
-- **Focus**: Shell scripting and automation.  
-- **Key Topics**: Process management, file handling, and efficient scripting.  
+- **Focus**:  Basic shell scripting for system task automation. 
+- **Key Topics**: Process management, file handling, and scripting best practices. 
 
 ---
 
