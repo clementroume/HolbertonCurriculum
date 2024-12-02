@@ -4,13 +4,15 @@ Welcome to the **Bridge** directory! This section of the repository is part of t
 
 The Bridge program emphasizes hands-on learning with essential tools and programming languages critical for success in software development, including:
 
-- ![Shell](https://cdn.prod.website-files.com/64107f65f30b69371e3d6bfa/65704640742682775fb93d9c_kisspng-bash-shell-script-command-line-interface-z-shell-5b3df572212d73.0687702015307871861359.png =20x20) **Shell**: Basics of navigation and scripting.
-- <img src="https://cdn.prod.website-files.com/64107f65f30b69371e3d6bfa/6570463f2002aa7ceacf738a_Vi_logo.svg" width="20" height="20" alt="Shell icon"> **Vi** and <img src="https://cdn.prod.website-files.com/64107f65f30b69371e3d6bfa/65704682ac953cf7aba75ef3_Emacs%20Code%20Editor.svg" width="20" height="20" alt="Shell icon"> **Emacs**: Powerful text editors.
-- <img src="https://cdn.prod.website-files.com/64107f65f30b69371e3d6bfa/654d010217c15ed64d7ff755_github%20logo%20svg.svg" width="20" height="20" alt="Shell icon"> **Git**: Version control for collaborative projects.
-- <img src="https://cdn.prod.website-files.com/64107f65f30b69371e3d6bfa/657045b6762a7945dcaa9e4f_python.png" width="20" height="20" alt="Shell icon"> **Python**: Versatile language for object-oriented programming and test-driven development.
-- <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" width="20" height="20" alt="Shell icon"> **C**: Low-level programming for memory management and data structures.
-- <img src="https://cdn.prod.website-files.com/64107f65f30b69371e3d6bfa/657045b6ca2dcafaf8143aa3_64494035734806ce17dd9c7a_te%CC%81le%CC%81chargement%20(1).png" width="20" height="26,4" alt="Shell icon"> **SQL**: Database querying and management.
-- <img src="https://cdn.prod.website-files.com/64107f65f30b69371e3d6bfa/657045b64e8c6adc52f0f236_js.svg" width="20" height="20" alt="Shell icon"> **JavaScript**: Web scraping and DOM manipulation.
+
+
+- <img src="https://cdn.prod.website-files.com/64107f65f30b69371e3d6bfa/65704640742682775fb93d9c_kisspng-bash-shell-script-command-line-interface-z-shell-5b3df572212d73.0687702015307871861359.png" alt="Shell" height="24px" /> **Shell**: Basics of navigation and scripting.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Vi_logo.svg" alt="Vi" height="24"> **Vi** and <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" alt="Emacs" height="24"> **Emacs**: Powerful text editors.
+- <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt = "Git" height="24"> **Git**: Version control for collaborative projects.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt = "Python" height="24"> **Python**: Versatile language for object-oriented programming and test-driven development.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt ="C" height="24"> **C**: Low-level programming for memory management and data structures.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/SQL_логотип.png" alt="SQL" height="24"> **SQL**: Database querying and management.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JS" height="24"> **JavaScript**: Web scraping and DOM manipulation.
 
 Each section introduces tools and concepts progressively, helping you build a robust foundation for advanced topics like full-stack web development.
 
