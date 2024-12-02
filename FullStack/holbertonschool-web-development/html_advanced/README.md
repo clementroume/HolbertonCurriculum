@@ -26,7 +26,7 @@ The repository contains the completed HTML code for each section of the page, in
 The `html_advanced` directory includes the following files:
 
 - `README.md` - This file that provides an overview and guidance for the project.
-- `index.html` \- The fully implemented webpage built from the [Figma design file](https://www.figma.com/design/XrEAsu1vQj5fhVaNG38d2W/Homepage?node-id=0-1&node-type=canvas&t=LwyPndsDJdqhhPwf-0).
+- `index.html` - The fully implemented webpage built from the [Figma design file](https://www.figma.com/design/XrEAsu1vQj5fhVaNG38d2W/Homepage?node-id=0-1&node-type=canvas&t=LwyPndsDJdqhhPwf-0).
 
 ### Project steps
 
