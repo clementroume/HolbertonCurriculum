@@ -4,8 +4,6 @@ Welcome to the **Bridge** directory! This section of the repository is part of t
 
 The Bridge program emphasizes hands-on learning with essential tools and programming languages critical for success in software development, including:
 
-
-
 - <img src="https://cdn.prod.website-files.com/64107f65f30b69371e3d6bfa/65704640742682775fb93d9c_kisspng-bash-shell-script-command-line-interface-z-shell-5b3df572212d73.0687702015307871861359.png" alt="Shell" height="24px" /> **Shell**: Basics of navigation and scripting.
 - <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Vi_logo.svg" alt="Vi" height="24"> **Vi** and <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" alt="Emacs" height="24"> **Emacs**: Powerful text editors.
 - <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt = "Git" height="24"> **Git**: Version control for collaborative projects.
