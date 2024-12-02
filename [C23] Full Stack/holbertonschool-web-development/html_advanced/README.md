@@ -2,11 +2,14 @@
 
 Welcome to the **HTML advanced** project repository! This project is part of the **Holberton School Web development** curriculum and focuses on ...
 
+---
+
 ## Table of Contents
 
 - [Description](#description)
 - [Project Structure](#project-structure)
 - [Learning Objectives](#learning-objectives)
+- [Wireframe](#wireframe)
 
 ---
 
@@ -20,25 +23,25 @@ The repository includes several tasks that ...
 
 ---
 
-## Project Struture
+## Project Structure
 
 Here’s an overview of the files included in the `html_advanced` directory:
 
 - `README.md` this file describing the project
 - `index.html` the webpage implemented from scratch from a [designer file](https://www.figma.com/design/XrEAsu1vQj5fhVaNG38d2W/Homepage?node-id=0-1&node-type=canvas&t=LwyPndsDJdqhhPwf-0).
 
-### Project steps : 
+### Project steps
 
 | Steps                     | Description                                                  |
-| ------------------------- | ------------------------------------------------------------ |
+| ------------------------- | :----------------------------------------------------------- |
 | 0. README and objectives! | Create a webpage from a Figma design file, focusing solely on the semantic HTML structure without any CSS or styling, and write a high-quality README.md for the project. |
 | 1. Header                 | Start by creating the HTML skeleton (html, head, body, etc.), then add a header in the body containing a link with an image inside and a block of three link elements. |
-| Step 2                    |                                                              |
-| Step 3                    |                                                              |
-| Step 4                    |                                                              |
-| Step 5                    |                                                              |
-| Step 6                    |                                                              |
-| Step 7                    |                                                              |
+| 2. Banner                 | Create a main tag with a section containing two blocks: the first with a level 1 heading, text, and a button, and the second with a level 2 heading and four sub-blocks, each containing an image, a level 3 heading, and text. |
+| 3. Quote                  | Create a new section under the banner for the quote, containing a block with an image and another block inside, which includes a blockquote tag, a text tag for the quote author, and additional text. |
+| 4. Videos                 | Create a new section with a level 1 heading, followed by a block containing four video blocks, each with an image, a level 2 heading, and text, then add a block for author information with an image, a level 3 heading, and a block for rating with images representing stars and text. |
+| 5. Membership             | After the videos list section, add a new section with a level 1 heading, followed by a block containing four block items, each with an image, a level 2 heading, text, and a button. |
+| 6. FAQ                    | Add a section for the FAQ with a level 1 heading, followed by a block containing two "row blocks," each consisting of two "item blocks," where each item block includes a level 2 heading and text. |
+| 7. Footer                 | Finally, add the footer outside of the main, after the last section, with a block for centering the content. Inside this block, include another block containing an image, followed by a block with three linked images and some text. |
 
 ---
 
@@ -58,3 +61,8 @@ This ensures a strong foundation for explaining and applying HTML concepts in pr
 
 ---
 
+## Wireframe
+
+![Wireframe](wireframe.jpg)
+
+---
