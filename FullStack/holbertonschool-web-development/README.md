@@ -22,9 +22,10 @@ This repository includes projects that cover different programming concepts. Top
 
 Here’s an overview of the directories included in the repository:
 
-| **Directory**   | **Description**                                                   |
-| --------------- | ----------------------------------------------------------------- |
+| **Directory**   | **Description**                                              |
+| --------------- | ------------------------------------------------------------ |
 | `html_advanced` | Focuses on implement from scratch a webpage from a designer file. |
+| `css_advanced`  | Following the `html_advanced` project, focus on the CSS and the style of the page. |
 
 ---
 
