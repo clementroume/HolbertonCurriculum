@@ -1,0 +1,85 @@
+/* General reset for consistency */
+*,
+::before,
+::after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  /* colors */
+  --white: #ffffff;
+  --purple: #c271ff;
+  --black: #071629;
+  --black-gradient: linear-gradient(90deg, #071629 50%, transparent 50%);
+  --grey: #d8d8d8;
+  --black: #000000;
+}
+
+body {
+  width: 1440px;
+  background-color: var(--white);
+}
+
+header {
+  display: flex;
+  justify-content: center;
+}
+
+#head {
+  padding-top: 30px;
+  width: 1100px;
+  height: 30px;
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#menu {
+  display: flex;
+  width: 234px;
+  justify-content: space-between;
+}
+
+#menu > a {
+  font-family: 'Source Sans Pro';
+  font-size: 12px;
+  font-weight: bold;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+#main_part {
+  height: 1093px;
+  background-image: url('img/background.png');
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+#main_part_top {
+  display: flex;
+  flex-direction: column;
+}
+
+#main_part_top > h1 {
+  font-family: 'Source Sans Pro';
+  font-size: 120px;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+#main_part_bottom {
+  display: flex;
+  flex-direction: column;
+}
+
+#pros {
+  width: 1009px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
