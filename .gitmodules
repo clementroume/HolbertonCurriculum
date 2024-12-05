@@ -1,0 +1,6 @@
+[submodule "FullStack/holbertonschool-web-development"]
+	path = FullStack/holbertonschool-web-development
+	url = git@github.com:clementroume/holbertonschool-web-development.git
+[submodule "FullStack/holbertonschool-web_front_end"]
+	path = FullStack/holbertonschool-web_front_end
+	url = git@github.com:clementroume/holbertonschool-web_front_end.git
