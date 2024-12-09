@@ -4,3 +4,6 @@
 [submodule "FullStack/holbertonschool-web_front_end"]
 	path = FullStack/holbertonschool-web_front_end
 	url = git@github.com:clementroume/holbertonschool-web_front_end.git
+[submodule "FullStack/holbertonschool-Markdown2HTML"]
+	path = FullStack/holbertonschool-Markdown2HTML
+	url = git@github.com:clementroume/holbertonschool-Markdown2HTML.git
