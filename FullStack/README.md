@@ -8,6 +8,7 @@ The Full-Stack specialization program emphasizes hands-on learning with essentia
 -  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" height="24"/>**CSS**: is a style sheet language used for specifying the presentation and styling of a document written in a markup language such as HTML
 -  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="CSS" height="24"/>SASS: is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets (CSS). SassScript is the scripting language itself.
 - <img src="https://www.google.com/chrome/static/images/chrome-logo.svg" alt="DevTools" height="24"/> **Chrome DevTools**: is a set of web developer tools built directly into the Google Chrome browser.
+-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="DevTools" height="24"/>**Python** :  is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.
 
 ---
 
