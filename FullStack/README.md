@@ -1,6 +1,6 @@
 # Holberton School Full-Stack Curriculum
 
-Welcome to the **Full-Stack** directory! This repository showcases the various projects I have completed as part of the Holberton School Full-Stack Curriculum. This curriculum emphasizes practical, hands-on learning through projects that focus on developing a comprehensive skill set in software development. These projects cover essential tools and programming languages critical for success in web development.
+Welcome to the **Full-Stack** directory! This repository showcases the various projects completed as part of the Holberton School Full-Stack Curriculum. This curriculum emphasizes practical, hands-on learning through projects that focus on developing a comprehensive skill set in software development. These projects cover essential tools and programming languages critical for success in web development.
 
 The projects within this curriculum span both front-end and back-end development, providing the opportunity to gain experience in building dynamic, fully-functional web applications. Key topics include:
 
@@ -27,7 +27,7 @@ This repository contains all the projects that make up the Holberton School Full
 Key projects in this curriculum cover the following topics:
 
 - **Web Development**: Creating webpages using HTML and CSS, including advanced concepts.
-- **Web Front-End**: Utilizing tools and techniques to enhance the front-end development process, including developer tools and Sass.
+- **Web Front-End**: Utilizing tools and techniques to enhance the front-end development process, including developer tools, Sass, and responsive design.
 - **Markdown to HTML**: Converting Markdown syntax into HTML using Python, providing experience with file handling and text processing.
 
 Each section includes progressively challenging tasks to reinforce theoretical concepts through practical application.
@@ -53,6 +53,7 @@ Here’s a breakdown of the subdirectories:
   - **Forms**: Creating accessible, functional, and validated HTML5 forms.
   - **Sass & Scss**: Leveraging the power of Sass/Scss for more maintainable and modular CSS.
   - **Developer Tools**: Using browser developer tools to inspect, debug, and optimize web applications.
+  - **Responsive Web Design**: Creating layouts that adapt to various screen sizes using CSS media queries and mobile-first design.
 
 ### [Markdown to HTML(`holbertonschool-Markdown2HTML`)](https://github.com/clementroume/holbertonschool-Markdown2HTML/tree/58cfd3be9550058e2ab4fccea7c0e46d6df5f49e)
 
@@ -78,6 +79,7 @@ Here’s a breakdown of the subdirectories:
 - Create flexible layouts with **CSS Flexbox** and **Sass** for more maintainable styles.
 - Develop **HTML5 forms**, ensuring accessibility and proper validation.
 - Use **browser developer tools** for debugging and optimizing web applications.
+- Implement **responsive web design** principles using CSS media queries and mobile-first design.
 
 ### **Markdown to HTML**
 
