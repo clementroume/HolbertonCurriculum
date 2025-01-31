@@ -54,6 +54,7 @@ Here’s a breakdown of the subdirectories:
   - **Sass & Scss**: Leveraging the power of Sass/Scss for more maintainable and modular CSS.
   - **Developer Tools**: Using browser developer tools to inspect, debug, and optimize web applications.
   - **Responsive Web Design**: Creating layouts that adapt to various screen sizes using CSS media queries and mobile-first design.
+  - **Accessibility**: Ensuring web pages are accessible to users with disabilities, following WCAG guidelines, ARIA standards, and ensuring compatibility with screen readers.
 
 ### [Markdown to HTML(`holbertonschool-Markdown2HTML`)](https://github.com/clementroume/holbertonschool-Markdown2HTML/tree/58cfd3be9550058e2ab4fccea7c0e46d6df5f49e)
 
@@ -80,6 +81,7 @@ Here’s a breakdown of the subdirectories:
 - Develop **HTML5 forms**, ensuring accessibility and proper validation.
 - Use **browser developer tools** for debugging and optimizing web applications.
 - Implement **responsive web design** principles using CSS media queries and mobile-first design.
+- Ensure web pages are accessible, following **WCAG** guidelines, implementing **ARIA** roles, and testing compatibility with screen readers.
 
 ### **Markdown to HTML**
 
