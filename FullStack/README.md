@@ -38,14 +38,14 @@ Each section includes progressively challenging tasks to reinforce theoretical c
 
 Here’s a breakdown of the subdirectories:
 
-### [Web Development(`holbertonschool-web-development`)](https://github.com/clementroume/holbertonschool-web-development/tree/10e36e2408e02b72fea33c64c6df30fb0934d617)
+### [Web Development(`holbertonschool-web-development`)](https://github.com/clementroume/holbertonschool-web-development/)
 
 - **Focus**: Advanced web development concepts, including both HTML and CSS, emphasizing structure, layout, and design precision.
 - **Key Topics**:
   - **Advanced HTML**: Semantic HTML structure, wireframes to HTML, and accessibility.
   - **Advanced CSS**: Styling with CSS based on design specifications, including Flexbox and layout techniques.
 
-### [Web Front-End(`holbertonschool-web-front_end`)](https://github.com/clementroume/holbertonschool-web_front_end/tree/24949b1f7e0f495c2e6aca52b549ad335a696d39)
+### [Web Front-End(`holbertonschool-web-front_end`)](https://github.com/clementroume/holbertonschool-web_front_end/)
 
 - **Focus**: Mastering front-end development using advanced tools and techniques, including CSS Flexbox, Sass, HTML5 forms, and browser developer tools.
 - **Key Topics**:
@@ -56,7 +56,7 @@ Here’s a breakdown of the subdirectories:
   - **Responsive Web Design**: Creating layouts that adapt to various screen sizes using CSS media queries and mobile-first design.
   - **Accessibility**: Ensuring web pages are accessible to users with disabilities, following WCAG guidelines, ARIA standards, and ensuring compatibility with screen readers.
 
-### [Markdown to HTML(`holbertonschool-Markdown2HTML`)](https://github.com/clementroume/holbertonschool-Markdown2HTML/tree/58cfd3be9550058e2ab4fccea7c0e46d6df5f49e)
+### [Markdown to HTML(`holbertonschool-Markdown2HTML`)](https://github.com/clementroume/holbertonschool-Markdown2HTML/)
 
 - **Focus**: Converting Markdown syntax into HTML using Python, with a focus on file handling, text processing, and regular expressions.
 - **Key Topics**:
