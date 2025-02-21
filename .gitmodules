@@ -10,3 +10,6 @@
 [submodule "Divers/holbertonschool-france-certificates-ibm"]
 	path = Divers/holbertonschool-france-certificates-ibm
 	url = git@github.com:clementroume/holbertonschool-france-certificates-ibm.git
+[submodule "FullStack/holbertonschool-headphones"]
+	path = FullStack/holbertonschool-headphones
+	url = git@github.com:clementroume/holbertonschool-headphones.git
