@@ -13,3 +13,6 @@
 [submodule "FullStack/holbertonschool-headphones"]
 	path = FullStack/holbertonschool-headphones
 	url = git@github.com:clementroume/holbertonschool-headphones.git
+[submodule "FullStack/holbertonschool-Fun-with-CSS"]
+	path = FullStack/holbertonschool-Fun-with-CSS
+	url = git@github.com:clementroume/holbertonschool-Fun-with-CSS.git
