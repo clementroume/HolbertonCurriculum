@@ -13,3 +13,6 @@
 [submodule "FullStack/holbertonschool-Fun-with-CSS"]
 	path = FullStack/holbertonschool-Fun-with-CSS
 	url = git@github.com:clementroume/holbertonschool-Fun-with-CSS.git
+[submodule "Miscellaneous/holbertonschool-france-certificates-ibm"]
+	path = Miscellaneous/holbertonschool-france-certificates-ibm
+	url = git@github.com:clementroume/holbertonschool-france-certificates-ibm.git
