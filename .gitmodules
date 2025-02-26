@@ -7,9 +7,6 @@
 [submodule "FullStack/holbertonschool-Markdown2HTML"]
 	path = FullStack/holbertonschool-Markdown2HTML
 	url = git@github.com:clementroume/holbertonschool-Markdown2HTML.git
-[submodule "Miscellaneous/holbertonschool-france-certificates-ibm"]
-	path = Miscellaneous/holbertonschool-france-certificates-ibm
-	url = git@github.com:clementroume/holbertonschool-france-certificates-ibm.git
 [submodule "FullStack/holbertonschool-headphones"]
 	path = FullStack/holbertonschool-headphones
 	url = git@github.com:clementroume/holbertonschool-headphones.git
