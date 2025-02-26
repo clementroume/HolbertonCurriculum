@@ -16,3 +16,6 @@
 [submodule "Miscellaneous/holbertonschool-france-certificates-ibm"]
 	path = Miscellaneous/holbertonschool-france-certificates-ibm
 	url = git@github.com:clementroume/holbertonschool-france-certificates-ibm.git
+[submodule "Miscellaneous/holbertonschool-interview"]
+	path = Miscellaneous/holbertonschool-interview
+	url = git@github.com:clementroume/holbertonschool-interview.git
