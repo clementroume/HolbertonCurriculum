@@ -2,13 +2,13 @@
 
 ![Holberton School Logo](https://cdn.prod.website-files.com/64107f65f30b69371e3d6bfa/65c6179aa44b63fa4f31e7ad_Holberton-Logo-Cherry.svg)
 
-Welcome to my **Holberton Curriculum** repository! This is where I showcase all the projects completed as part of my journey through the **Holberton School** programs. From mastering the basics of programming to diving deep into full-stack web development, this repository holds the fruits of my learning process and hands-on experience.
+Welcome to the **Holberton Curriculum** repository! This is where all projects completed as part of the **Holberton School** programs are showcased. From mastering the fundamentals of programming to exploring full-stack web development, this repository documents the hands-on learning process and technical growth.
 
 ---
 
 ## 🚀 What’s Inside?
 
-This repository contains two main sections: **Bridge Curriculum** and **Full-Stack Curriculum**, each representing a key stage of my learning journey.
+This repository is divided into two main sections: **Bridge Curriculum** and **Full-Stack Curriculum**, each representing a key stage in the learning journey.
 
 ### 🌱 **Bridge Curriculum** (Starting Strong)
 
@@ -24,14 +24,15 @@ The **Bridge Curriculum** helped me build a solid foundation in programming and 
 
 ### 💻 **Full-Stack Curriculum** (Mastering Web Development)
 
-The **Full-Stack Curriculum** takes things to the next level by teaching front-end and back-end development to build dynamic and scalable web applications. Here's what it covers:
+The **Full-Stack Curriculum** expands on fundamental programming knowledge, focusing on front-end and back-end web development. Key topics include:
 
-- **HTML5, CSS3**: Structuring and styling responsive web pages with advanced techniques.
-- **JavaScript**: Adding interactivity and advanced client-side functionality.
-- **Python**: Implementing server-side logic and databases.
+- **HTML5 & CSS3**: Structuring and styling responsive web pages with modern techniques.
+- **JavaScript**: Enhancing interactivity with dynamic client-side scripting.
+- **Python**: Developing server-side applications and handling databases.
 - **Sass**: Writing modular and maintainable CSS.
-- **Responsive Web Design**: Making websites mobile-friendly and adaptive using modern design patterns.
-- **Developer Tools**: Debugging, testing, and optimizing web applications.
+- **Bootstrap**: Leveraging a CSS framework for responsive and consistent designs.
+- **Responsive Web Design**: Creating layouts that adapt to various screen sizes.
+- **Developer Tools**: Debugging, optimizing, and enhancing web applications.
 
 ---
 
@@ -45,9 +46,9 @@ The **Full-Stack Curriculum** takes things to the next level by teaching front-e
 
 ### **Full-Stack Curriculum**
 
-- Create responsive, interactive websites using **HTML**, **CSS**, and **JavaScript**.
-- Build scalable back-end solutions with **Python** and **SQL**.
-- Learn advanced web design techniques with **Sass** and **Flexbox**.
+- Build fully responsive and interactive websites with **HTML**, **CSS**, and **JavaScript**.
+- Implement back-end solutions using **Python** and **SQL**.
+- Apply advanced styling techniques with **Sass**, **CSS animations**, and **Bootstrap**.
 
 ---
 
@@ -59,6 +60,7 @@ The **Full-Stack Curriculum** takes things to the next level by teaching front-e
 - **JavaScript**: Client-side scripting to make web pages interactive.
 - **SQL**: Querying and managing relational databases.
 - **Sass**: Preprocessing CSS for better organization and maintainability.
+- **Bootstrap**: Utilizing a front-end framework for responsive and consistent design.
 
 ---
 
