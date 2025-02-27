@@ -64,6 +64,16 @@ The **Full-Stack Curriculum** expands on fundamental programming knowledge, focu
 
 ---
 
+## 👤 About the Developer
+
+I’m Clément Roume, a passionate developer and lifelong learner currently immersed in the world of full-stack web development at Holberton School. My journey began with a strong focus on programming fundamentals and has evolved into a pursuit of building dynamic, real-world applications. 
+
+You can learn more about my work and connect with me through these platforms:  
+- [LinkedIn](https://www.linkedin.com/in/croume/)  
+- [GitHub](https://github.com/clementroume)
+
+---
+
 ## 🎉 Why This Repository?
 
 This repository contains the culmination of my learning journey at Holberton School. With each project, I’ve strengthened my understanding of essential programming concepts and web development skills. Whether you are a fellow student or just curious about my progress, you can explore the projects here to see the growth of my technical skills.
