@@ -19,3 +19,6 @@
 [submodule "Miscellaneous/holbertonschool-interview"]
 	path = Miscellaneous/holbertonschool-interview
 	url = git@github.com:clementroume/holbertonschool-interview.git
+[submodule "FullStack/holbertonschool-web_back_end"]
+	path = FullStack/holbertonschool-web_back_end
+	url = git@github.com:clementroume/holbertonschool-web_back_end.git
