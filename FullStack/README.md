@@ -4,12 +4,14 @@ Welcome to the **Full-Stack** directory! This repository showcases the various p
 
 The projects within this curriculum span both front-end and back-end development, providing the opportunity to gain experience in building dynamic, fully-functional web applications. Key topics include:  
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" height="24"/> **HTML** - The standard markup language for documents designed to be displayed in a web browser. It defines the structure and content of web pages.  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" height="24"/> **Bootstrap** - A popular CSS framework that simplifies responsive web design with pre-built components and grid systems.  
 - <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" height="24"/> **CSS** - A stylesheet language used to specify the presentation and styling of documents written in markup languages such as HTML.  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="SASS" height="24"/> **SASS** - A preprocessor scripting language interpreted or compiled into CSS, enabling more dynamic and maintainable stylesheets.  
 - <img src="https://www.google.com/chrome/static/images/chrome-logo.svg" alt="DevTools" height="24"/> **Chrome DevTools** - A set of web developer tools built directly into the Google Chrome browser, used for debugging and optimizing websites.  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" height="24"/> **HTML** - The standard markup language for documents designed to be displayed in a web browser. It defines the structure and content of web pages.  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="24"/> **JavaScript** - A versatile scripting language used to create dynamic and interactive web content, enabling client-side functionality.  
+- <img src="https://upload.wikimedia.org/wikipedia/fr/archive/b/b3/20150213130630%21Jquery-logo.png" alt="jQuery" height="24"/> **jQuery** - A fast, small, and feature-rich JavaScript library that simplifies HTML document traversal, event handling, and AJAX interactions.  
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="24"/> **Python** - A high-level programming language designed with code readability in mind. Python emphasizes the use of indentation to define code structure.  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" height="24"/> Bootstrap - A popular CSS framework that simplifies responsive web design with pre-built components and grid systems.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="SASS" height="24"/> **SASS** - A preprocessor scripting language interpreted or compiled into CSS, enabling more dynamic and maintainable stylesheets.  
 
 ---
 
@@ -30,8 +32,9 @@ Key projects in this curriculum cover the following topics:
 - **Fun with CSS**: Experimenting with creative **CSS animations**, **transitions**, **sprites**, and **custom UI components**, pushing the limits of what’s possible without JavaScript.  
 - **Holberton Headphones**: Implementing a **pixel-perfect** webpage from a **Figma design**, ensuring responsiveness, accessibility, and maintainability using **semantic HTML and CSS**.
 - **Markdown to HTML** - Converting Markdown syntax into HTML using Python, providing experience with file handling and text processing.  
-- **Web Development** - Creating webpages using HTML and CSS, including advanced concepts.  
-- **Web Front-End** - Utilizing tools and techniques to enhance the front-end development process, including developer tools, Sass, and responsive design.  
+- **Web Back-End** - Building efficient server-side components with Python, emphasizing caching strategies, object-oriented design, and performance optimization.
+- **Web Front-End** - Utilizing tools and techniques to enhance the front-end development process, including developer tools, Sass, and responsive design.
+- **Web Development** - Creating webpages using HTML and CSS, including advanced concepts.
 
 Each section includes progressively challenging tasks to reinforce theoretical concepts through practical application.  
 
@@ -68,6 +71,15 @@ Here’s a breakdown of the subdirectories:
   - **Text Parsing**: Using regular expressions and string manipulation to convert Markdown syntax into structured HTML.  
   - **Advanced Features**: Implementing advanced Markdown syntax processing, such as MD5 hashing and character removal.  
 
+### [Web Back-End (`holbertonschool-web_back_end`)](https://github.com/clementroume/holbertonschool-web_back_end/)
+
+- **Focus**: Exploring fundamental back-end development concepts with Python through caching strategies and system design patterns.
+- **Key Topics**:
+  - **Caching Strategies**: Implementing FIFO, LIFO, LRU, MRU, and LFU algorithms.
+  - **Inheritance & Method Overriding**: Using OOP principles to create flexible and reusable code.
+  - **Performance Optimization**: Reducing latency and improving resource utilization through caching.
+  - **Python Standards**: Writing clean code that adheres to `pycodestyle` guidelines.
+
 ### [Web Front-End (`holbertonschool-web_front_end`)](https://github.com/clementroume/holbertonschool-web_front_end/)  
 
 - **Focus**: Mastering front-end development using advanced tools and techniques, including CSS Flexbox, Sass, HTML5 forms, and browser developer tools.  
@@ -80,7 +92,7 @@ Here’s a breakdown of the subdirectories:
   - **Responsive Web Design**: Creating layouts that adapt to various screen sizes using CSS media queries and mobile-first design.  
   - **Sass & Scss**: Leveraging the power of Sass/Scss for more maintainable and modular CSS.  
 
-  ### [Web Development (`holbertonschool-web-development`)](https://github.com/clementroume/holbertonschool-web-development/)  
+### [Web Development (`holbertonschool-web-development`)](https://github.com/clementroume/holbertonschool-web-development/)  
 
 - **Focus**: Advanced web development concepts, including both HTML and CSS, emphasizing structure, layout, and design precision.  
 - **Key Topics**:  
@@ -112,6 +124,14 @@ Here’s a breakdown of the subdirectories:
 
 - Convert **Markdown syntax** to **HTML** using Python.  
 - Work with **file handling** and **regular expressions** to parse and process Markdown content.  
+
+### **Web Back-End**
+
+- Understand the role and advantages of **caching** in back-end systems.
+- Implement different **cache replacement algorithms** (FIFO, LIFO, LRU, MRU, LFU).
+- Apply **object-oriented programming** concepts such as class inheritance and method overriding.
+- Write **efficient and maintainable Python code** following standard style guides.
+- Analyze and evaluate the **trade-offs** between different caching strategies.
 
 ### **Web Front-End**  
 
