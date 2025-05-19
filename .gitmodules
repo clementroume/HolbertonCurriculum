@@ -22,3 +22,6 @@
 [submodule "FullStack/holbertonschool-web_back_end"]
 	path = FullStack/holbertonschool-web_back_end
 	url = git@github.com:clementroume/holbertonschool-web_back_end.git
+[submodule "FullStack/holbertonschool-smiling-school-javascript"]
+	path = FullStack/holbertonschool-smiling-school-javascript
+	url = git@github.com:clementroume/holbertonschool-smiling-school-javascript.git
