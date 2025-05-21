@@ -32,7 +32,7 @@ Key projects in this curriculum cover the following topics:
 - **Fun with CSS**: Experimenting with creative **CSS animations**, **transitions**, **sprites**, and **custom UI components**, pushing the limits of what’s possible without JavaScript.  
 - **Holberton Headphones**: Implementing a **pixel-perfect** webpage from a **Figma design**, ensuring responsiveness, accessibility, and maintainability using **semantic HTML and CSS**.
 - **Markdown to HTML** - Converting Markdown syntax into HTML using Python, providing experience with file handling and text processing.  
-- **Web Back-End** - Building efficient server-side components with Python, emphasizing caching strategies, object-oriented design, and performance optimization.
+- **Web Back-End** - Building a strong foundation in back-end development with Python, focusing on caching algorithms and protecting personal data securely.
 - **Web Front-End** - Utilizing tools and techniques to enhance the front-end development process, including developer tools, Sass, and responsive design.
 - **Web Development** - Creating webpages using HTML and CSS, including advanced concepts.
 
@@ -76,9 +76,7 @@ Here’s a breakdown of the subdirectories:
 - **Focus**: Exploring fundamental back-end development concepts with Python through caching strategies and system design patterns.
 - **Key Topics**:
   - **Caching Strategies**: Implementing FIFO, LIFO, LRU, MRU, and LFU algorithms.
-  - **Inheritance & Method Overriding**: Using OOP principles to create flexible and reusable code.
-  - **Performance Optimization**: Reducing latency and improving resource utilization through caching.
-  - **Python Standards**: Writing clean code that adheres to `pycodestyle` guidelines.
+  - **Personal Data Protection**: Obfuscating Personally Identifiable Information (PII) in logs, securely hashing passwords with bcrypt, and handling environment variables safely.
 
 ### [Web Front-End (`holbertonschool-web_front_end`)](https://github.com/clementroume/holbertonschool-web_front_end/)  
 
@@ -129,9 +127,9 @@ Here’s a breakdown of the subdirectories:
 
 - Understand the role and advantages of **caching** in back-end systems.
 - Implement different **cache replacement algorithms** (FIFO, LIFO, LRU, MRU, LFU).
-- Apply **object-oriented programming** concepts such as class inheritance and method overriding.
-- Write **efficient and maintainable Python code** following standard style guides.
-- Analyze and evaluate the **trade-offs** between different caching strategies.
+- Identify and protect Personally Identifiable Information (PII) in logs and data.
+- Create custom logging filters to obfuscate sensitive data.
+- Securely hash and verify passwords using the bcrypt library.
 
 ### **Web Front-End**  
 
