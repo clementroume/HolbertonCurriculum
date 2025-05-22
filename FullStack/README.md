@@ -33,7 +33,7 @@ Key projects in this curriculum cover the following topics:
 - **Holberton Headphones**: Implementing a **pixel-perfect** webpage from a **Figma design**, ensuring responsiveness, accessibility, and maintainability using **semantic HTML and CSS**.
 - **Markdown to HTML** - Converting Markdown syntax into HTML using Python, providing experience with file handling and text processing.  
 - **Web Back-End** - Building a strong foundation in back-end development with Python, focusing on caching algorithms and protecting personal data securely.
-- **Web Front-End** - Utilizing tools and techniques to enhance the front-end development process, including developer tools, Sass, and responsive design.
+- **Web Front-End** - Mastering modern front-end development, including **Accessibility**, **Bootstrap**, **Cookies & Local Storage**, **Developer Tools**, **Flexbox**, **Forms**, **advanced JavaScript and jQuery**, **Responsive Web Design**, and **Sass/Scss**.
 - **Web Development** - Creating webpages using HTML and CSS, including advanced concepts.
 
 Each section includes progressively challenging tasks to reinforce theoretical concepts through practical application.  
@@ -80,15 +80,18 @@ Here’s a breakdown of the subdirectories:
 
 ### [Web Front-End (`holbertonschool-web_front_end`)](https://github.com/clementroume/holbertonschool-web_front_end/)  
 
-- **Focus**: Mastering front-end development using advanced tools and techniques, including CSS Flexbox, Sass, HTML5 forms, and browser developer tools.  
+- **Focus**: Mastering front-end development using advanced tools and techniques.  
 - **Key Topics**:  
-  - **Accessibility**: Ensuring web pages are accessible to users with disabilities, following WCAG guidelines, ARIA standards, and ensuring compatibility with screen readers.  
-  - **Bootstrap**: Using Bootstrap’s CSS framework to create responsive and professional web layouts with minimal custom styling.  
-  - **Developer Tools**: Using browser developer tools to inspect, debug, and optimize web applications.  
-  - **Flexbox**: Building responsive layouts with CSS Flexbox to create modern web designs.  
-  - **Forms**: Creating accessible, functional, and validated HTML5 forms.  
-  - **Responsive Web Design**: Creating layouts that adapt to various screen sizes using CSS media queries and mobile-first design.  
-  - **Sass & Scss**: Leveraging the power of Sass/Scss for more maintainable and modular CSS.  
+  - **Accessibility**: Making web pages accessible to all users by following WCAG guidelines and implementing ARIA attributes.
+  - **Bootstrap**: Leveraging Bootstrap’s CSS framework for responsive layouts.
+  - **Cookies & Local Storage**: Persisting user data on the client-side.
+  - **Developer Tools**: Using browser tools for debugging and optimization.
+  - **Flexbox**: Mastering CSS Flexbox for flexible and responsive layouts.  
+  - **Forms**: Creating accessible and functional HTML5 forms.
+  - **JavaScript Advanced**: Exploring closures, callbacks, binding, and AJAX requests.
+  - **jQuery Advanced**: Utilizing advanced jQuery for DOM manipulation and AJAX.
+  - **Responsive Web Design**: Ensuring websites adapt to different screen sizes.  
+  - **Sass & Scss**: Enhancing CSS with preprocessor features like variables, mixins, and modularization.
 
 ### [Web Development (`holbertonschool-web-development`)](https://github.com/clementroume/holbertonschool-web-development/)  
 
@@ -133,12 +136,16 @@ Here’s a breakdown of the subdirectories:
 
 ### **Web Front-End**  
 
-- Ensure web pages are accessible, following **WCAG** guidelines, implementing **ARIA** roles, and testing compatibility with screen readers.  
-- Utilize **Bootstrap 4.4** to create modern, responsive layouts effortlessly.  
-- Use **browser developer tools** for debugging and optimizing web applications.  
-- Create flexible layouts with **CSS Flexbox** and **Sass** for more maintainable styles.  
-- Develop **HTML5 forms**, ensuring accessibility and proper validation.  
-- Implement **responsive web design** principles using CSS media queries and mobile-first design.  
+- Implement **WCAG** guidelines for accessible web content. Use **ARIA roles, landmarks, and attributes** to enhance screen reader compatibility. Ensure keyboard navigation and conduct accessibility testing with tools like Axe.
+- Utilize **Bootstrap 4.4** to create modern, responsive layouts effortlessly. Leverage its **grid system**, predefined components, and utility classes for rapid development. Override Bootstrap’s default styles with custom CSS for a unique design.  
+- Create, read, and manipulate **cookies** using vanilla JavaScript and `js-cookie`. Understand cookie settings such as expiration, domain, and path. Distinguish between **localStorage** (persistent) and **sessionStorage** (temporary). Build login and shopping cart features with client-side data storage. Dynamically update the DOM to reflect stored data.  
+- Use browser developer tools to inspect and debug web pages. Analyze network activity, performance metrics, and accessibility issues.  
+- Build responsive layouts using CSS Flexbox. Align and distribute elements using properties like `justify-content`, `align-items`, and `flex-direction`. Solve common layout challenges efficiently in a one-dimensional space.  
+- Structure HTML5 forms for diverse use cases. Implement various input types and apply validation techniques. Style forms for improved user experience and accessibility.  
+- Understand and manage the **execution stack** and **timing** of JavaScript functions. Use **`setTimeout`** to manipulate the order of execution in the call stack. Implement **closures** and **binding** functions to ensure the correct context (`this`). **Make AJAX requests** using vanilla JavaScript to interact with external APIs, and **use callbacks** to handle asynchronous data retrieval and processing.
+- Load jQuery from a CDN. Create, modify, and insert DOM elements using jQuery. Handle events and bind click handlers with jQuery. Make AJAX requests (GET, POST, DELETE) to interact with APIs or JSON Server. Wrap and unwrap elements dynamically. Create a basic pagination system. Build a responsive interface that updates dynamically based on server data.
+- Apply **mobile-first design** principles. Use **CSS media queries** and flexible units (`rem`, `em`, `%`, `vh`, `vw`). Design responsive navigation menus and optimize images for different screens. Understand the distinction between **responsive** and **adaptive** design.  
+- Understand the benefits of using a CSS preprocessor. Utilize variables, mixins, and functions for modular and maintainable styling. Improve project organization with `@import`, `@use`, and `@extend`.  
 
 ### **Web Development**  
 
